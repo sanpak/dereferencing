@@ -9,5 +9,8 @@ int main() {
   int *score_ptr {&score};
 
   cout << *score_ptr << endl;
+  *score_ptr = 200;
 
+  cout << *score_ptr << endl;
+  cout << score << endl;
 }
