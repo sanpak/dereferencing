@@ -1,5 +1,9 @@
 #include <iostream>
+#include <stirng>
+#include <vector>
+
+using namespace std;
 
 int main() {
-  std::cout << "Hello World!\n";
+  
 }
